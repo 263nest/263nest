@@ -1,7 +1,7 @@
 ## Hi there I'M Ernest!👋
 
 # 💫 
-🔭 I’m a Software Developer<br>👯 I’m looking to collaborate on development  and deployment <br>🌱 I’m currently learning security architecture and analysis<br>⚡ Fun fact
+🔭 I’m a Software Developer from Nairobi Kenya <br>👯 I’m looking to collaborate on development  and deployment <br>🌱 I’m currently learning security architecture and analysis<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
